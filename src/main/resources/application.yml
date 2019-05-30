@@ -1,0 +1,3 @@
+lianxi:
+  elasticsearch:
+    hostlist: 120.78.0.32:9200
